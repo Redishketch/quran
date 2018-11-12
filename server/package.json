@@ -1,0 +1,14 @@
+{
+  "name": "quran.io",
+  "version": "1.0.0",
+  "description": "quran audio files dowloader",
+  "main": "download.js",
+  "scripts": {
+    "start": "node download.js"
+  },
+  "author": "Ridwanul Hafiz",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0"
+  }
+}

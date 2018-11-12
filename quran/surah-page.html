@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link href="https://fonts.googleapis.com/css?family=KoHo" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="header">
+    <div class="container">
+        <div class="header-content">
+            <div class="col-md-10 col-md-offset-1">
+                    <div class="website-name">
+                        <h1 class="web-text">The Nobel Quran</h1>
+                    </div>
+                <div class="col-md-12">
+                    <div class="nav-bar">
+                        <ul>
+                            <li><a href="index.html">The Quran</a></li>
+                            <li><a href="#">Hadith</a></li>
+                            <li><a href="#">Salah</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="body-0">
+    <div class="container">
+        <div class="body-0-content">
+            <div class="col-md-12">
+                <div class="body-0-h1 surahName">
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="full-sura">
+                <div class="container">
+                    <div class="full-sura-content">
+                        <div class="col-md-12">
+                            <h1 class="bismillah">﷽</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <button class="btn btn-default" onclick="stopAll()">Stop Playing</button>
+            <button class="btn btn-default" onclick="playThisAudio(0)">Play All</button>
+        </div>
+        <div class="col-md-12">
+            <div class="verse verse-btn">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+<script>
+    $(function () {
+
+        var url_string = window.location.href;
+        var url = new URL(url_string);
+        var c = url.searchParams.get("slug");
+        console.log(c);
+
+        $.ajax({
+            url:"http://localhost/projects/quran.io/server/singleSurah.php",
+            type:"post",
+            data: {slug: c},
+            success: function (response) {
+                var res = JSON.parse(response);
+                console.log(res);
+
+                var surahHtml = `<h1>` +res.title +`</h1>`;
+                $('.surahName').html(surahHtml);
+
+                for(var i=0;i<res.verses.length;i++){
+                    var eachVerse = res.verses[i];
+                    var versehtml = `<button class="btn btn-default btn-verse trigger`+i+`" onclick="playThisAudio(`+i+`)">`+(parseInt(i)+1)+` <audio id="play`+i+`" style="display: none;" src="`+eachVerse+`" controls></button>`;
+                    $('.verse-btn').append(versehtml)
+
+                }
+            }
+        });
+
+    });
+
+    function stopAll() {
+        $('.btn-verse').removeClass('btn-success').addClass('btn-default');
+        var sounds = document.getElementsByTagName('audio');
+        for(i=0; i<sounds.length; i++){
+            sounds[i].pause();
+            sounds[i].currentTime = 0;
+        }
+    }
+    function playThisAudio(id) {
+        stopAll();
+        document.getElementById('play'+id).play();
+        $('.trigger'+id).removeClass('btn-default').addClass('btn-success');
+        $("#play"+id).on("ended", function () {
+            playThisAudio(id+1);
+        });
+
+    }
+</script>
+</html>
