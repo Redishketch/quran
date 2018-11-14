@@ -14,5 +14,4 @@ yarn-error.log
 .scss
 .map
 /.sass-cache
-*.mp3
-
+.mp3
