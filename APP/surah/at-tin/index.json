@@ -3,13 +3,13 @@
   "slug": "at-tin",
   "title": "At-Tin",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095005.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095006.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095007.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/at-tin\/095008.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095005.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095006.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095007.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/at-tin/095008.mp3"
   ]
 }

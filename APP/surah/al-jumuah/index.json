@@ -3,16 +3,16 @@
   "slug": "al-jumuah",
   "title": "Al-Jumu'ah",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062005.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062006.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062007.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062008.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062009.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062010.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-jumuah\/062011.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062005.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062006.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062007.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062008.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062009.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062010.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-jumuah/062011.mp3"
   ]
 }

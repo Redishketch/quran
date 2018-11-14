@@ -3,13 +3,13 @@
   "slug": "al-bayyinah",
   "title": "Al-Bayyinah",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098005.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098006.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098007.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-bayyinah\/098008.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098005.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098006.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098007.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-bayyinah/098008.mp3"
   ]
 }

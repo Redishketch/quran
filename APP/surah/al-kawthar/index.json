@@ -3,8 +3,8 @@
   "slug": "al-kawthar",
   "title": "Al-Kawthar",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-kawthar\/108001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-kawthar\/108002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-kawthar\/108003.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-kawthar/108001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-kawthar/108002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-kawthar/108003.mp3"
   ]
 }

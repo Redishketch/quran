@@ -3,12 +3,12 @@
   "slug": "al-maun",
   "title": "Al-Ma'un",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107005.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107006.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-maun\/107007.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107005.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107006.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-maun/107007.mp3"
   ]
 }

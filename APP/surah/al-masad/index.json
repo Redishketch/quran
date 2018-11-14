@@ -3,10 +3,10 @@
   "slug": "al-masad",
   "title": "Al-Masad",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-masad\/111001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-masad\/111002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-masad\/111003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-masad\/111004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-masad\/111005.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-masad/111001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-masad/111002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-masad/111003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-masad/111004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-masad/111005.mp3"
   ]
 }

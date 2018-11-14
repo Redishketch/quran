@@ -3,19 +3,19 @@
   "slug": "as-saf",
   "title": "As-Saf",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061005.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061006.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061007.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061008.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061009.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061010.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061011.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061012.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061013.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/as-saf\/061014.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061005.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061006.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061007.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061008.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061009.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061010.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061011.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061012.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061013.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/as-saf/061014.mp3"
   ]
 }

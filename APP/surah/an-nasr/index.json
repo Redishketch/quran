@@ -3,8 +3,8 @@
   "slug": "an-nasr",
   "title": "An-Nasr",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/an-nasr\/110001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/an-nasr\/110002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/an-nasr\/110003.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/an-nasr/110001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/an-nasr/110002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/an-nasr/110003.mp3"
   ]
 }

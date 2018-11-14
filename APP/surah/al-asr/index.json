@@ -3,8 +3,8 @@
   "slug": "al-asr",
   "title": "Al-'Asr",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-asr\/103001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-asr\/103002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-asr\/103003.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-asr/103001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-asr/103002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-asr/103003.mp3"
   ]
 }

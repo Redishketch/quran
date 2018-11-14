@@ -3,10 +3,10 @@
   "slug": "al-fil",
   "title": "Al-Fil",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fil\/105001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fil\/105002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fil\/105003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fil\/105004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fil\/105005.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fil/105001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fil/105002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fil/105003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fil/105004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fil/105005.mp3"
   ]
 }

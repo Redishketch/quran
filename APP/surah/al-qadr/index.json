@@ -3,10 +3,10 @@
   "slug": "al-qadr",
   "title": "Al-Qadr",
   "verses": [
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-qadr\/097001.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-qadr\/097002.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-qadr\/097003.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-qadr\/097004.mp3",
-    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-qadr\/097005.mp3"
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-qadr/097001.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-qadr/097002.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-qadr/097003.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-qadr/097004.mp3",
+    "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-qadr/097005.mp3"
   ]
 }
