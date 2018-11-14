@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "slug": "al-fatihah",
+  "title": "Al-Fatihah",
+  "verses": [
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001001.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001002.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001003.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001004.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001005.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001006.mp3",
+    "http:\/\/localhost\/projects\/quran.io\/APP\/surah\/al-fatihah\/001007.mp3"
+  ]
+}
