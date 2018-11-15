@@ -10,5 +10,23 @@
     "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fatihah/001005.mp3",
     "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fatihah/001006.mp3",
     "https://raw.githubusercontent.com/Redishketch/quran/master/APP/surah/al-fatihah/001007.mp3"
+  ],
+  "arabic": [
+    "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "الرَّحْمَٰنِ الرَّحِيمِ",
+    "مَالِكِ يَوْمِ الدِّينِ",
+    "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+    "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ"
+  ],
+  "english": [
+    "In the name of God, the Gracious, the Merciful.",
+    "Praise be to God, Lord of the Worlds.",
+    "The Most Gracious, the Most Merciful.",
+    "Master of the Day of Judgment.",
+    "It is You we worship, and upon You we call for help.",
+    "Guide us to the straight path.",
+    "The path of those You have blessed, not of those against whom there is anger, nor of those who are misguided."
   ]
 }
